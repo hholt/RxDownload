@@ -14,8 +14,8 @@ const val FAKE_BASE_URL = "http://www.example.com"
 
 val okHttpClient: OkHttpClient = OkHttpClient().newBuilder()
         .connectTimeout(15, TimeUnit.SECONDS)
-        .readTimeout(120, TimeUnit.SECONDS)
-        .writeTimeout(120, TimeUnit.SECONDS)
+        .readTimeout(60, TimeUnit.SECONDS)
+        .writeTimeout(60, TimeUnit.SECONDS)
         .build()
 
 
