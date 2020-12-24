@@ -1,10 +1,10 @@
+[![](https://www.jitpack.io/v/hholt/RxDownload.svg)](https://www.jitpack.io/#hholt/RxDownload)
+
 ![](usage.png)
 
 # RxDownload
 
 ![](https://img.shields.io/badge/language-kotlin-brightgreen.svg) ![](https://img.shields.io/badge/RxJava-2.0-blue.svg)
-
-[![](https://jitpack.io/v/ssseasonnn/RxDownload.svg)](https://jitpack.io/#ssseasonnn/RxDownload)
 
 A multi-threaded download tool written with RxJava and Kotlin
 
